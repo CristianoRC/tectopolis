@@ -29,6 +29,9 @@ namespace Api
         {
             services.AddTransient<IPostBusiness, PostBusiness>();
             services.AddTransient<IPostRepository, PostRepository>();
+            services.AddTransient<IUserBusiness, UserBusiness>();
+            services.AddTransient<IUserRepository, UserRepository>();
+
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
         }

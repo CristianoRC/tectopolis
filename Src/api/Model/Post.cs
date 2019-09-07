@@ -8,7 +8,7 @@ namespace Model
         {
         }
 
-        public Post(Guid id, string creator, string description, int userId)
+        public Post(Guid id, string creator, string description, Guid userId)
         {
             Id = id;
             Creator = creator;
@@ -21,7 +21,7 @@ namespace Model
 
         public string Description { get; set; }
 
-        public int UserId { get; set; }
+        public Guid UserId { get; set; }
 
         public bool IsValid
         {

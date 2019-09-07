@@ -14,6 +14,7 @@
         <e p="Api.csproj" t="IncludeRecursive" />
         <e p="Controllers" t="Include">
           <e p="PostController.cs" t="Include" />
+          <e p="UserController.cs" t="Include" />
         </e>
         <e p="Program.cs" t="Include" />
         <e p="Properties" t="Include">
@@ -34,7 +35,9 @@
       <e p="Business" t="IncludeRecursive">
         <e p="Business.csproj" t="IncludeRecursive" />
         <e p="IPostBusiness.cs" t="Include" />
+        <e p="IUserBusiness.cs" t="Include" />
         <e p="PostBusiness.cs" t="Include" />
+        <e p="UserBusiness.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
@@ -45,8 +48,10 @@
         </e>
       </e>
       <e p="Model" t="IncludeRecursive">
+        <e p="CreateUserDto.cs" t="Include" />
         <e p="Model.csproj" t="IncludeRecursive" />
         <e p="Post.cs" t="Include" />
+        <e p="User.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
@@ -59,8 +64,10 @@
       <e p="Repository" t="IncludeRecursive">
         <e p="BaseRepository.cs" t="Include" />
         <e p="IPostRepository.cs" t="Include" />
+        <e p="IUserRepository.cs" t="Include" />
         <e p="PostRepository.cs" t="Include" />
         <e p="Repository.csproj" t="IncludeRecursive" />
+        <e p="UserRepository.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
