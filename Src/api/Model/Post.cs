@@ -1,3 +1,5 @@
+using System;
+
 namespace Model
 {
     public class Post
@@ -6,15 +8,14 @@ namespace Model
         {
         }
 
-        public Post(int id, string creator, string description, int userId)
+        public Post(Guid id, string creator, string description, int userId)
         {
             Id = id;
             Creator = creator;
             Description = description;
             UserId = userId;
         }
-
-        public int Id { get; set; }
+        public Guid Id { get; set; }
 
         public string Creator { get; set; }
 

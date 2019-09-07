@@ -8,8 +8,7 @@ namespace Repository
 
         protected BaseRepository()
         {
-            _stringConnection =
-                "User ID=postgres;Password=123456789;Host=172.17.0.2;Port=5432;Database=vehicle_access_control;";
+            _stringConnection = "Server=tectopolis-db.postgres.database.azure.com;Database=posts;Port=5432;User Id=cristianorc@tectopolis-db;Password=sup@1097;;";
         }
 
         protected NpgsqlConnection GetConnection()

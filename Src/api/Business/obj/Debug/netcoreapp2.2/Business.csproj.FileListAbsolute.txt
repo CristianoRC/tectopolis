@@ -1,0 +1,14 @@
+/home/cristiano/Desktop/tectopolis/Src/api/Business/obj/Debug/netcoreapp2.2/Business.csprojAssemblyReference.cache
+/home/cristiano/Desktop/tectopolis/Src/api/Business/obj/Debug/netcoreapp2.2/Business.csproj.CoreCompileInputs.cache
+/home/cristiano/Desktop/tectopolis/Src/api/Business/obj/Debug/netcoreapp2.2/Business.AssemblyInfoInputs.cache
+/home/cristiano/Desktop/tectopolis/Src/api/Business/obj/Debug/netcoreapp2.2/Business.AssemblyInfo.cs
+/home/cristiano/Desktop/tectopolis/Src/api/Business/bin/Debug/netcoreapp2.2/Business.deps.json
+/home/cristiano/Desktop/tectopolis/Src/api/Business/bin/Debug/netcoreapp2.2/Business.dll
+/home/cristiano/Desktop/tectopolis/Src/api/Business/bin/Debug/netcoreapp2.2/Business.pdb
+/home/cristiano/Desktop/tectopolis/Src/api/Business/bin/Debug/netcoreapp2.2/Model.dll
+/home/cristiano/Desktop/tectopolis/Src/api/Business/bin/Debug/netcoreapp2.2/Repository.dll
+/home/cristiano/Desktop/tectopolis/Src/api/Business/bin/Debug/netcoreapp2.2/Model.pdb
+/home/cristiano/Desktop/tectopolis/Src/api/Business/bin/Debug/netcoreapp2.2/Repository.pdb
+/home/cristiano/Desktop/tectopolis/Src/api/Business/obj/Debug/netcoreapp2.2/Business.csproj.CopyComplete
+/home/cristiano/Desktop/tectopolis/Src/api/Business/obj/Debug/netcoreapp2.2/Business.dll
+/home/cristiano/Desktop/tectopolis/Src/api/Business/obj/Debug/netcoreapp2.2/Business.pdb

@@ -1,0 +1,9 @@
+/home/cristiano/Desktop/tectopolis/Src/api/Model/bin/Debug/netcoreapp2.2/Model.deps.json
+/home/cristiano/Desktop/tectopolis/Src/api/Model/bin/Debug/netcoreapp2.2/Model.dll
+/home/cristiano/Desktop/tectopolis/Src/api/Model/bin/Debug/netcoreapp2.2/Model.pdb
+/home/cristiano/Desktop/tectopolis/Src/api/Model/obj/Debug/netcoreapp2.2/Model.csprojAssemblyReference.cache
+/home/cristiano/Desktop/tectopolis/Src/api/Model/obj/Debug/netcoreapp2.2/Model.csproj.CoreCompileInputs.cache
+/home/cristiano/Desktop/tectopolis/Src/api/Model/obj/Debug/netcoreapp2.2/Model.AssemblyInfoInputs.cache
+/home/cristiano/Desktop/tectopolis/Src/api/Model/obj/Debug/netcoreapp2.2/Model.AssemblyInfo.cs
+/home/cristiano/Desktop/tectopolis/Src/api/Model/obj/Debug/netcoreapp2.2/Model.dll
+/home/cristiano/Desktop/tectopolis/Src/api/Model/obj/Debug/netcoreapp2.2/Model.pdb

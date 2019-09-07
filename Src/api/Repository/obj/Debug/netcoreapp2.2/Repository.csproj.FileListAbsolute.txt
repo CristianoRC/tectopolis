@@ -1,0 +1,12 @@
+/home/cristiano/Desktop/tectopolis/Src/api/Repository/bin/Debug/netcoreapp2.2/Repository.deps.json
+/home/cristiano/Desktop/tectopolis/Src/api/Repository/bin/Debug/netcoreapp2.2/Repository.dll
+/home/cristiano/Desktop/tectopolis/Src/api/Repository/bin/Debug/netcoreapp2.2/Repository.pdb
+/home/cristiano/Desktop/tectopolis/Src/api/Repository/bin/Debug/netcoreapp2.2/Model.dll
+/home/cristiano/Desktop/tectopolis/Src/api/Repository/bin/Debug/netcoreapp2.2/Model.pdb
+/home/cristiano/Desktop/tectopolis/Src/api/Repository/obj/Debug/netcoreapp2.2/Repository.csprojAssemblyReference.cache
+/home/cristiano/Desktop/tectopolis/Src/api/Repository/obj/Debug/netcoreapp2.2/Repository.csproj.CoreCompileInputs.cache
+/home/cristiano/Desktop/tectopolis/Src/api/Repository/obj/Debug/netcoreapp2.2/Repository.AssemblyInfoInputs.cache
+/home/cristiano/Desktop/tectopolis/Src/api/Repository/obj/Debug/netcoreapp2.2/Repository.AssemblyInfo.cs
+/home/cristiano/Desktop/tectopolis/Src/api/Repository/obj/Debug/netcoreapp2.2/Repository.csproj.CopyComplete
+/home/cristiano/Desktop/tectopolis/Src/api/Repository/obj/Debug/netcoreapp2.2/Repository.dll
+/home/cristiano/Desktop/tectopolis/Src/api/Repository/obj/Debug/netcoreapp2.2/Repository.pdb
