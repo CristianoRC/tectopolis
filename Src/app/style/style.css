@@ -1,0 +1,52 @@
+html{
+    padding: 0px;
+}
+nav{
+    margin: 10px;
+}
+.image-nav{
+    height: 80px;
+    width: 80px;
+    border-width: 5px;
+    border-color: #70B0A2;
+    border-style: solid;
+    float: left;
+    background-color: #70B0A2;
+}
+.hover-nav{
+    font-weight: 500;
+    padding: 15px;
+}
+.hover-nav>p{
+    margin-bottom: 0px;
+}
+.hover-nav:hover {
+    background-color: #A7D6CF;
+}
+#user-img{
+    background-color: black;
+    width: 40px;
+}
+.post-area{
+    background-color: #DFBDF9;
+}
+.user-area{
+    height: 100%;
+}
+.row{
+    margin: 10px;
+}
+.nav-total{
+    height: 54px;
+    background-color: #70B0A2;
+}
+.feed{
+    margin-top: 40px;
+}
+.sugested-name{
+    font-size: 1.3vw;
+    margin:0px; 
+}
+.img-user-feed{
+    
+}
