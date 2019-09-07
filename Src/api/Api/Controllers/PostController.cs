@@ -34,7 +34,14 @@ namespace Api.Controllers
         [HttpGet]
         public async Task<IActionResult> GetAll()
         {
-            return Ok(await _postBusiness.GetAll());
+            try
+            {
+                return Ok(await _postBusiness.GetAll());
+            }
+            catch (Exception e)
+            {
+               return Ok(e.Message);
+            }
         }
     }
 }

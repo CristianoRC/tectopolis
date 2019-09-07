@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 using System.Threading.Tasks;
 using Model;
 using Repository;
@@ -14,7 +15,7 @@ namespace Business
             _repository = repository;
         }
 
-        public async Task<Post[]> GetAll()
+        public async Task<IEnumerable<Post>> GetAll()
         {
             return await _repository.GetAll();
         }
