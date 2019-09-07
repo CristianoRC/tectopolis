@@ -2,6 +2,9 @@ html{
     padding: 0px;
     margin: 0px;
 }
+a{
+    text-decoration: none !important;
+}
 .image-nav{
     height: 80px;
     width: 80px;
@@ -9,6 +12,9 @@ html{
     border-color: #70B0A2;
     border-style: solid;
     float: left;
+    background-color: #70B0A2;
+}
+.btn-primary{
     background-color: #70B0A2;
 }
 .hover-nav{
@@ -53,4 +59,11 @@ html{
 }
 .img-user-feed{
     margin-right: 10px;
+}
+.navselect{
+    background-color: #A7D6CF !important;
+}
+.Create{
+    margin-top: 40px;
+    margin-left: 0px;
 }
