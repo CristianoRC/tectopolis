@@ -19,7 +19,7 @@ function getAllPosts() {
   axios.get('https://api-tectopolis.azurewebsites.net/api/post').then(response => {
     const cards = response.data.map(post => createCard(post))
 
-    cards.map(card => {
+    cards.reverse().map(card => {
       constendDiv.innerHTML += card
     })
   });
