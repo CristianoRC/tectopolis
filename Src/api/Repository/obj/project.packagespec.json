@@ -1,0 +1,58 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/cristiano/Desktop/tectopolis/Src/api/Repository/Repository.csproj",
+    "projectName": "Repository",
+    "projectPath": "/home/cristiano/Desktop/tectopolis/Src/api/Repository/Repository.csproj",
+    "outputPath": "/home/cristiano/Desktop/tectopolis/Src/api/Repository/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {
+          "/home/cristiano/Desktop/tectopolis/Src/api/Model/Model.csproj": {
+            "projectPath": "/home/cristiano/Desktop/tectopolis/Src/api/Model/Model.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "Dapper": {
+          "target": "Package",
+          "version": "[2.0.4, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        },
+        "Npgsql": {
+          "target": "Package",
+          "version": "[4.1.0-preview2, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

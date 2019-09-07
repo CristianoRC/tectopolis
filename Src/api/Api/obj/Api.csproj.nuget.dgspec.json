@@ -1,0 +1,245 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/cristiano/Desktop/tectopolis/Src/api/Api/Api.csproj": {}
+  },
+  "projects": {
+    "/home/cristiano/Desktop/tectopolis/Src/api/Api/Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/cristiano/Desktop/tectopolis/Src/api/Api/Api.csproj",
+        "projectName": "Api",
+        "projectPath": "/home/cristiano/Desktop/tectopolis/Src/api/Api/Api.csproj",
+        "packagesPath": "/home/cristiano/.nuget/packages/",
+        "outputPath": "/home/cristiano/Desktop/tectopolis/Src/api/Api/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/cristiano/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "/home/cristiano/Desktop/tectopolis/Src/api/Business/Business.csproj": {
+                "projectPath": "/home/cristiano/Desktop/tectopolis/Src/api/Business/Business.csproj"
+              },
+              "/home/cristiano/Desktop/tectopolis/Src/api/Model/Model.csproj": {
+                "projectPath": "/home/cristiano/Desktop/tectopolis/Src/api/Model/Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/home/cristiano/Desktop/tectopolis/Src/api/Business/Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/cristiano/Desktop/tectopolis/Src/api/Business/Business.csproj",
+        "projectName": "Business",
+        "projectPath": "/home/cristiano/Desktop/tectopolis/Src/api/Business/Business.csproj",
+        "packagesPath": "/home/cristiano/.nuget/packages/",
+        "outputPath": "/home/cristiano/Desktop/tectopolis/Src/api/Business/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/cristiano/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "/home/cristiano/Desktop/tectopolis/Src/api/Model/Model.csproj": {
+                "projectPath": "/home/cristiano/Desktop/tectopolis/Src/api/Model/Model.csproj"
+              },
+              "/home/cristiano/Desktop/tectopolis/Src/api/Repository/Repository.csproj": {
+                "projectPath": "/home/cristiano/Desktop/tectopolis/Src/api/Repository/Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/home/cristiano/Desktop/tectopolis/Src/api/Model/Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/cristiano/Desktop/tectopolis/Src/api/Model/Model.csproj",
+        "projectName": "Model",
+        "projectPath": "/home/cristiano/Desktop/tectopolis/Src/api/Model/Model.csproj",
+        "packagesPath": "/home/cristiano/.nuget/packages/",
+        "outputPath": "/home/cristiano/Desktop/tectopolis/Src/api/Model/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/cristiano/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/home/cristiano/Desktop/tectopolis/Src/api/Repository/Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/cristiano/Desktop/tectopolis/Src/api/Repository/Repository.csproj",
+        "projectName": "Repository",
+        "projectPath": "/home/cristiano/Desktop/tectopolis/Src/api/Repository/Repository.csproj",
+        "packagesPath": "/home/cristiano/.nuget/packages/",
+        "outputPath": "/home/cristiano/Desktop/tectopolis/Src/api/Repository/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/cristiano/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "/home/cristiano/Desktop/tectopolis/Src/api/Model/Model.csproj": {
+                "projectPath": "/home/cristiano/Desktop/tectopolis/Src/api/Model/Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[4.1.0-preview2, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
