@@ -1,9 +1,13 @@
+*{
+    text-decoration: none;
+}
 html{
     padding: 0px;
     margin: 0px;
 }
 a{
     text-decoration: none !important;
+    color: white !important;
 }
 .image-nav{
     height: 80px;
